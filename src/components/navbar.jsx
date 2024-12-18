@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import logo from '../assets/react.svg';
 
 function Navbar() {
@@ -13,6 +13,7 @@ function Navbar() {
                 <a href='#' className='text-white hover:text-gray-400'>Home</a>
                 <a href='#' className='text-white hover:text-gray-400'>About</a>
                 <a href='#' className='text-white hover:text-gray-400'>Contact</a>
+                <a href='#' className='text-white hover:text-gray-400'>Login</a>
             </div>
         </div>
    </nav>
