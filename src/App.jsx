@@ -1,17 +1,11 @@
-import './App.css'
-import Register from './components/register'
+import React from 'react';
 
 function App() {
-
   return (
     <>
-      <h1>Travel App</h1>
-      <p className="read-the-docs">
-        Start sharing your journey today!
-      </p>
-      <Register />
+      <div>The Travel App</div>
     </>
   )
 }
 
-export default App
+export default App;
