@@ -3,6 +3,7 @@ import Navbar from './components/navbar';
 import Hero from './components/Hero';
 import HomeCards from './components/HomeCards';
 import Places from './components/Places';
+import Recent from './components/Recent';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <HomeCards />
       <Places />
+      <Recent />
     </>
   )
 }

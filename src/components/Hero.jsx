@@ -1,7 +1,7 @@
 // import React from 'react';
 
 const Hero = ({
-    title = 'Welcome to The Travel App',
+    title = 'Travel Like a Local',
     subtitle = 'Explore and discover amazing places around the world with us!'
 }) => {
     return (
