@@ -1,0 +1,28 @@
+{
+    "places": [
+        {
+            "id": 1,
+            "name": "Edisto Beach, South Carolina",
+            "description": "Edisto Beach is a serene coastal destination known for its unspoiled natural beauty. Visitors can enjoy pristine beaches, lush marshlands, and abundant wildlife. It's a perfect spot for relaxation and outdoor activities like fishing, kayaking, and hiking.",
+            "image": "image1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Garmisch-Partenkirchen, Germany",
+            "description": "Garmisch-Partenkirchen is a picturesque town nestled in the Bavarian Alps. It is renowned for its stunning mountain scenery, outdoor sports, and historic charm. Visitors can enjoy skiing, hiking, and exploring traditional Bavarian culture.",
+            "image": "image2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Swindon, England",
+            "description": "Swindon is a vibrant town in Wiltshire, England, known for its rich railway heritage. It offers a mix of modern amenities and historical sites, including the STEAM Museum and the Swindon Designer Outlet. Visitors can enjoy parks, shopping, and cultural attractions.",
+            "image": "image3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Rome, Italy",
+            "description": "Rome is the capital city of Italy, known for its nearly 3,000 years of globally influential art, architecture, and culture. Visitors can explore iconic landmarks such as the Colosseum, the Vatican, and the Pantheon, as well as enjoy world-class cuisine and vibrant street life.",
+            "image": "image4.jpg"
+        }
+    ]
+}
