@@ -1,5 +1,5 @@
-{
-    "places": [
+
+    [
         {
             "id": 1,
             "name": "Edisto Beach, South Carolina",
@@ -19,4 +19,3 @@
             "image": "src/assets/images/swindon.jpeg"
         }
     ]
-}
