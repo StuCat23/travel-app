@@ -8,11 +8,6 @@ function Footer() {
             <a href="#instagram" className="text-gray-400 hover:text-white">Instagram</a>
           </div>
             <p className="text-gray-400">&copy; 2024 The Travel App. All rights reserved.</p>
-          <div className="flex space-x-4">
-            <a href="#home" className="text-gray-400 hover:text-white">Home</a>
-            <a href="#about" className="text-gray-400 hover:text-white">About</a>
-            <a href="#contact" className="text-gray-400 hover:text-white">Contact</a>
-          </div>
         </div>
       </footer>
     );

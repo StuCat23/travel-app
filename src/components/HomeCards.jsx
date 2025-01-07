@@ -14,7 +14,7 @@ function HomeCards() {
             <Card>
                 <h2 className='text-2xl font-bold mb-4'>Plan Your Trip</h2>
                 <p className='text-gray-400 mb-4'>
-                    Use our app to create a personalized itineray for your trip. Add destinations, activities, and accommodations to your plan.
+                    Use TravelLocalAi to create a personalized itineray for your trip. Add destinations, activities, and accommodations to your plan.
                 </p>
             </Card>
             <Card>
