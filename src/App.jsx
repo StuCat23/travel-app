@@ -13,9 +13,9 @@ function App() {
         <Navbar />
         <Hero />
         <HomeCards />
+        <Aitinerary />
         <Places />
         <Recent />
-        <Aitinerary />
         <Footer />
     </>
   )

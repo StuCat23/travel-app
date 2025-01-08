@@ -30,7 +30,7 @@ function Aitinerary() {
     };
 
     return (
-        <div className='bg-gradient-to-r from-gray-800 to-black text-white py-40'>
+        <div className='bg-gradient-to-r from-gray-800 to-black text-white py-20'>
             <div className='container mx-auto text-center'>
                 <h1 className='text-3xl font-semibold text-white-800 mb-6'>AItinerary</h1>
                 <p className='text-lg text-gray-300 mb-6'>Generate a travel itinerary for your next trip with our AI assistant.</p>
@@ -39,11 +39,11 @@ function Aitinerary() {
                     value={location}
                     onChange={(e) => setLocation(e.target.value)}
                     placeholder='Enter a location'
-                    className='w-3/4 border border-gray-300 p-3 rounded-lg mb-4 focus:outline-none focus:ring-2 focus:ring-blue-500'
+                    className='w-3/4 border border-gray-300 bg-gray-900 text-white p-3 rounded-lg mb-4 focus:outline-none focus:ring-2 focus:ring-blue-500'
                 />
                 <button
                     onClick={generateItinerary}
-                    className='w-2/4 bg-blue-600 text-white py-3 rounded-lg hover:bg-blue-700 transition duration-300'
+                    className='w-2/4 bg-gray-300 text-black py-3 rounded-lg hover:bg-gray-500 transition duration-300'
                 >
                     Generate Itinerary
                 </button>
