@@ -43,4 +43,4 @@ function Where() {
     );
   }
 
-export default Where
+export default Where;
