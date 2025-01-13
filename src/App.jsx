@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
-      <div className="bg-gradient-to-r from-gray-800 to-black text-white">
+      <div className="bg-site-pattern bg-cover">
         <Navbar />
         <Hero />
         <HomeCards />

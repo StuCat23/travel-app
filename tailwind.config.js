@@ -12,6 +12,9 @@ export default {
       gridTemplateColumns: {
         '70/30': '70% 28%',
       },
+      backgroundImage: {
+        'site-pattern': 'url("src/assets/images/background.jpg")',
+      },
     },
   },
   plugins: [],

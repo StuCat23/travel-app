@@ -3,7 +3,7 @@ import logo from '../assets/images/logo.jpeg';
 
 function Navbar() {
   return (
-   <nav className='bg-gradient-to-r from-gray-800 to-black p-4'>
+   <nav className='bg-gradient-to-r from-gray-800 to-black p-4 sticky top-0 z-50'>
         <div className='container mx-auto flex justify-between items-center'>
             <div className='flex items-center'>
                 <img src={ logo } alt='logo' className='h-8 w-8 mr-2' />
