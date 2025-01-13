@@ -10,6 +10,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
+      <div className="bg-gradient-to-r from-gray-800 to-black text-white">
         <Navbar />
         <Hero />
         <HomeCards />
@@ -17,6 +18,7 @@ function App() {
         <Places />
         <Recent />
         <Footer />
+      </div>
     </>
   )
 }

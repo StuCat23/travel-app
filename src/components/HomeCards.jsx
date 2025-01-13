@@ -22,7 +22,7 @@ function HomeCards() {
     ]
 
   return (
-    <div className='bg-gradient-to-r from-gray-800 to-black text-white py-20'>
+    <div className='py-20'>
         <div className='container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8'>
             <Card>
                 <h2 className='text-2xl font-bold mb-4'>{cards[0].title}</h2>

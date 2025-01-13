@@ -5,7 +5,7 @@ const Hero = ({
     button = 'Start Exploring'
 }) => {
     return (
-    <div className='bg-gradient-to-r from-gray-800 to-black text-white py-40'>
+    <div className='py-40'>
         <div className='container mx-auto text-center'>
             <h1 className='text-4xl font-bold mb-4'>{ title }</h1>
             <p className='text-xl mb-8'>{ subtitle }</p>

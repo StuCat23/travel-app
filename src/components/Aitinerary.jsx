@@ -30,10 +30,10 @@ function Aitinerary() {
     };
 
     return (
-        <div className='bg-gradient-to-r from-gray-800 to-black text-white py-20'>
+        <div className='py-20'>
             <div className='container mx-auto text-center'>
                 <h1 className='text-3xl font-semibold text-white-800 mb-6'>AItinerary</h1>
-                <p className='text-lg text-gray-300 mb-6'>Generate a travel itinerary for your next trip with our AI assistant.</p>
+                <p className='text-lg text-gray-400 mb-6'>Generate a travel itinerary for your next trip with our AI assistant.</p>
                 <input 
                     type='text'
                     value={location}
