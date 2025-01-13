@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
-      <div className="bg-site-pattern bg-cover">
+      <div className="bg-site-pattern bg-cover bg-fixed">
         <Navbar />
         <Hero />
         <HomeCards />

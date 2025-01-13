@@ -1,5 +1,4 @@
 // import React from 'react';
-import Card from './Card';
 
 function HomeCards() {
     const homecards = [
