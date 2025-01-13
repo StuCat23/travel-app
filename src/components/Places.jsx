@@ -6,7 +6,7 @@ const Places = () => {
   return (
     <div className="text-white py-20">
       <div className="container mx-auto">
-        <h1 className="text-4xl font-bold text-center mb-8">Recommended adventures</h1>
+        <h1 className="text-4xl font-bold mb-8">Recommended adventures</h1>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {places.map((place) => (
               <div key={place.id} className="bg-gray-900 p-6 rounded-lg shadow-lg">

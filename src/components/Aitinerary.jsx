@@ -30,9 +30,9 @@ function Aitinerary() {
     };
 
     return (
-        <div className='py-20'>
-            <div className='container mx-auto text-center'>
-                <h1 className='text-3xl font-semibold text-white-800 mb-6'>AItinerary</h1>
+        <div className='py-2'>
+            <div className='container mx-auto text-center bg-gray-900 p-6 rounded-lg shadow-lg'>
+                <h1 className='text-3xl font-semibold text-white mb-6'>AItinerary</h1>
                 <p className='text-lg text-gray-400 mb-6'>Generate a travel itinerary for your next trip with our AI assistant.</p>
                 <input 
                     type='text'
